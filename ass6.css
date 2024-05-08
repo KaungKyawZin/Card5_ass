@@ -1,0 +1,32 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    border: 1px solid #495057;
+    border-radius: 5px;
+    width: 650px;
+    height: 300px;
+    margin: 50px;
+}
+
+h2{
+    font-family: Montserrat;
+}
+p{
+    font-family: Open Sans;
+}
+#p{
+    color: #343a40;
+    font-size: small;
+}
+img{
+    width:200px;
+    height:300px;
+    border:1px none;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.text{
+    height: 300px;
+    width: 400px;
+   padding-left: 50px;
+}
